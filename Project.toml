@@ -1,2 +1,15 @@
 [compat]
-julia = "1.6"
+julia = "1.7"
+
+[deps]
+Combinatorics
+ArbNumerics
+GenericLinearAlgebra
+LinearAlgebra
+TimerOutputs
+Optim
+LineSearches
+Tullio
+Nemo
+Random
+Distributions
